@@ -1,2 +1,2 @@
-# Desafio-CSS
+# Desafios-CSS
 DevStart ✌🏽
